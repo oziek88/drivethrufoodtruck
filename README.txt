@@ -11,3 +11,10 @@ Mark - Connect to Tylers scraped info. Build RESTful API and
 
 Ian - Hit Marks API data. Work with Android Studio, mapping, 
 	UI/UX. Java.
+
+
+--- Futureeee ---
+
+User can purchase food in advance through app. Truck gets 
+payment, fulfills request, and checks off their notification to
+alert user that the food order is ready for pickup.
